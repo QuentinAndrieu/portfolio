@@ -9,6 +9,7 @@ import '../../ui/pages/project-page.js';
 import '../../ui/pages/skill-page.js';
 import '../../ui/pages/experience-page.js';
 import '../../ui/pages/education-page.js';
+import '../../ui/pages/contact-page.js';
 
 import '../../ui/pages/app-not-found.js';
 
@@ -45,6 +46,13 @@ FlowRouter.route('/education', {
   name: 'App.home',
   action() {
     BlazeLayout.render('App_body', { main: 'Education_page' });
+  },
+});
+
+FlowRouter.route('/contact', {
+  name: 'App.home',
+  action() {
+    BlazeLayout.render('App_body', { main: 'Contact_page' });
   },
 });
 
