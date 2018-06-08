@@ -1,0 +1,215 @@
+/* CSS declarations go here */
+
+html {
+  font-size: 62.5%;
+  font-family: 'adriane', Georgia, serif;
+  color: #494c4e;
+  -webkit-font-smoothing: antialiased;
+  height: 100%;
+}
+
+body {
+  border-width: 8px;
+  border-style: solid;
+  border-color: rgb(73, 76, 78);
+  border-image: initial;
+  margin: 0px;
+  min-height: 600px;
+  padding-left: 25px;
+  padding-right: 25px;
+  min-height: 100%;
+}
+
+main {
+  height: 100%;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 2em;
+  margin-bottom: 1.5em;
+}
+
+h5, li.list-item {
+  font-size: 1.5em;
+  line-height: 1em;
+}
+
+.list-item {
+  float: left;
+  margin-left: 2em;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 1.5em;
+  padding-bottom: 2em;
+}
+
+h1, h2, h3, h4, h5, h6, li {
+  font-weight: bold;
+  margin: 0;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  font-size: 2em;
+  line-height: 1em;
+  margin-bottom: 1.5em;
+}
+
+h4 {
+  font-size: 1.35em;
+  line-height: 1em;
+  margin-bottom: 1.25em;
+  color: #f5c453;
+  text-transform: uppercase;
+}
+
+h3, h4 {
+  font-family: 'franklin-gothic-urw-cond', Arial, sans-serif;
+  font-weight: 700;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+a {
+  color: #494c4e;
+  text-decoration: none;
+  margin-bottom: 1.25em;
+  background-color: transparent;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: orange;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+nav {
+  width: 100%;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  height: 6em;
+}
+
+.nav-right {
+  padding-top: 1.5em;
+  float: right;
+  vertical-align: middle;
+}
+
+.site-logo {
+  width: 44px;
+  height: 44px;
+  display: inline-block;
+  vertical-align: middle;
+  overflow: visible;
+  border: 3px solid #494c4e;
+  position: relative;
+  transform: rotate(0deg);
+  transition: transform .4s ease-in-out;
+}
+
+.site-logo:hover {
+  transform: rotate(360deg);
+  transition-duration: 1s;
+  color: white;
+  background-color: black;
+}
+
+.site-logo .logo-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(0deg);
+  transition: transform .4s ease-in-out;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.description {
+  padding-top: 6em;
+  padding-bottom: 6em;
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  height: 700px;
+  width: 100%;
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  width: 100%;
+  text-align: right;
+}
+
+.inner-container, .outer-container {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.inner-container {
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+
+ul.no-bullet {
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-padding-start: 0px;
+}
+
+ul.no-bullet li {
+  list-style: none;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.card {
+  position: relative;
+  margin-bottom: 3em;
+  height: 240px;
+  background-color: rgb(239, 237, 238);
+}
+
+.small-card {
+  position: relative;
+  margin-bottom: 3em;
+  height: 240px;
+  background-color: rgb(239, 237, 238);
+}
+
+project-list li {
+  padding-top: 3em;
+  padding-bottom: 1em;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #f0eeee;
+}

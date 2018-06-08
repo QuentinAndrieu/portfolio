@@ -1,29 +1,26 @@
-[![Circle CI](https://circleci.com/gh/meteor/todos.svg?style=svg)](https://circleci.com/gh/meteor/todos)
+# gatsby-starter-default
+The default Gatsby starter.
 
-This is a Todos example app built on the principles described in the [Meteor Guide](http://guide.meteor.com/structure.html). 
+For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-## Versions
+## Install
 
-This version (the `master`) branch uses the [Blaze](http://guide.meteor.com/blaze.html) rendering library, with code written in ES2015 JavaScript.
-
-The [`react`](https://github.com/meteor/todos/tree/react) branch implements the same application using [React](http://guide.meteor.com/react.html)
-
-The [`coffeescript`](https://github.com/meteor/todos/tree/coffeescript) branch implements this (the Blaze) version of the app in CoffeeScript.
-
-Note that attempts will be made to keep the branches up to date but this isn't guaranteed.
-
-### Running the app
-
-```bash
-meteor npm install
-meteor
+Make sure that you have the Gatsby CLI program installed:
+```sh
+npm install --global gatsby-cli
 ```
 
-### Scripts
-
-To lint:
-
-```bash
-meteor npm run lint
+And run from your CLI:
+```sh
+gatsby new gatsby-example-site
 ```
 
+Then you can run it by:
+```sh
+cd gatsby-example-site
+gatsby develop
+```
+
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
