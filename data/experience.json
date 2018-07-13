@@ -1,0 +1,44 @@
+[
+    {
+        "role": "Front End Developer",
+        "company": "VizExplorer",
+        "summary": "Development in ReactJS, AngularJS and Typescript of an application to help host manage clients in casino.",
+        "range": "April 2018 - July 2018"
+    },
+    {
+        "role": "Front End Developer",
+        "company": "ARKEA",
+        "summary": "Development of the front-end application for the project Navig’Option (subscription online of life insurance). Development in AngularJS and Typescript. Collaboration with the team in charge of the REST API. Participation on the technical choices. Working with agile methodology (SCRUM).",
+        "range": "April 2017 - November 2017"
+    },
+    {
+        "role": "Front End Developer",
+        "company": "Silamir",
+        "summary": "Development of features for Kering (tool for managing orders). Development in Javascript and PHP.",
+        "range": "February 2017 - March 2017"
+    },
+    {
+        "role": "Full Stack Developer",
+        "company": "Pages Jaunes",
+        "summary": "Working with an agile team (SCRUM). Participation to the development of pagejaunes.fr. Work on multiple API (Java / Spring), and on the front-end modules (Symfony 3).",
+        "range": "November 2016 - February 2017"
+    },
+    {
+        "role": "Full Stack Developer (contract study)",
+        "company": "Netapsys",
+        "summary": "Maintaining applications on internals projects. Evolving apps, fixing bugs, setting up tests, and pushing apps to server in production. Development in Java and Spring.",
+        "range": "October 2015 - September 2016"
+    },
+    {
+        "role": "Full Stack Developer (contract study)",
+        "company": "Eliga",
+        "summary": "Participation to the development of Youslide (web app for interactive presentation online) Developing software with MeteorJS. Working with an agile team (SCRUM). Conception and realization of features for the app and setting up functionals tests.",
+        "range": "March 2014 - September 2015"
+    },
+    {
+        "role": "Full Stack Developer (internship)",
+        "company": "Therapist Office",
+        "summary": "Conception and development of a website for two therapists. Development in PHP.",
+        "range": "June 2013 - October 2013"
+    }
+]

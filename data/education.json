@@ -1,0 +1,26 @@
+[
+    {
+        "school":"IMIE",
+        "degree":"Master's Degree",
+        "major":"Project Management and Software Architecture",
+        "range":"2015 - 2016"
+    },
+    {
+        "school":"IMIE",
+        "degree":"Master's Degree",
+        "major":"Conception and Development",
+        "range":"2014 - 2016"
+    },
+    {
+        "school":"AFPA",
+        "degree":"Bachelor's Degree",
+        "major":"Web Development",
+        "range":"2013"
+    },
+    {
+        "school":"Bertrand d'Argentré",
+        "degree":"Highschool Diploma",
+        "major":"Economics",
+        "range":"2004 - 2008"
+    }
+]

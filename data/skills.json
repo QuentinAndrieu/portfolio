@@ -1,0 +1,53 @@
+[
+    {
+        "grouping": "Languages",
+        "skills": [
+            "Javascript",
+            "HTML5",
+            "CSS3"
+        ]
+    },
+    {
+        "grouping": "Frameworks, Libraries, and Databases",
+        "skills": [
+            "React",
+            "Angular",
+            "Redux",
+            "Typescript",
+            "NodeJS",
+            "Express",
+            "Meteor",
+            "jQuery",
+            "Bootstrap",
+            "MaterializeCSS",
+            "SASS",
+            "LESS",
+            "MongoDB",
+            "MySQL"
+        ]
+    },
+    {
+        "grouping": "Tools, OS and Methodologies",
+        "skills": [
+            "Git",
+            "npm",
+            "Grunt",
+            "Bower",
+            "Webpack",
+            "SCRUM",
+            "Jira",
+            "Jenkins",
+            "Docker",
+            "Postman",
+            "visualstudio",
+            "SourceTree",
+            "Terminal",
+            "Windows",
+            "Linux",
+            "Mac",
+            "Heroku",
+            "Firebase"
+        ]
+    }
+
+]

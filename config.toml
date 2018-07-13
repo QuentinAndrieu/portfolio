@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "resume"
+
+[params]
+    firstName = "Quentin"
+    lastName = "Andrieu"
+    address = "11 rue de Brest 35500 Vitré"
+    phone = "06 78 92 25 17"
+    contactNote = "Full Stack Javascript Developer" #used in QR code only
+    profileImage = "img/quentinandrieu.jpg"
+    email = "pro.andrieu.quentin@gmail.com"
+    description = "Full Stack Javascript Developer"
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showExperience = true
+    showEducation = true
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    # gitCommitPrefix = "https://github.com/quentinandrieu"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/quentin-andrieu/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/quentinandrieu/"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]
