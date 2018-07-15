@@ -2,7 +2,7 @@
     "title":"Dahlia",
     "link":"https://dahlia.quentinandrieu.com/",
     "image":"/img/Dahliab.png",
-    "description":"<p>Application develop to facilate the life of therapist. Using a really simple UI, making it easy for everyone to use.</p>",
+    "description":"Application develop to facilate the life of therapist. Using a really simple UI, making it easy for everyone to use.",
     "tags":[
           "Javascript",
           "ReactJS",

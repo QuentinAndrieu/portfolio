@@ -2,7 +2,7 @@
     "title":"Wiki Marvel",
     "link":"https://wiki-marvel.quentinandrieu.com/",
     "image":"/img/marvel.jpg",
-    "description":"<p>Application develop to search and learn about Marvel characters online. Give a simple and easy way to get the information you want.</p>",
+    "description":"Application develop to search and learn about Marvel characters online. Give a simple and easy way to get the information you want.",
     "tags":[
           "Javascript",
           "Angular 2",
