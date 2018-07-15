@@ -11,6 +11,7 @@ theme = "resume"
     profileImage = "img/quentinandrieu.jpg"
     email = "pro.andrieu.quentin@gmail.com"
     description = "Full Stack Javascript Developer"
+    summary = "I’m a software engineer passionate about web technologies and following good practices and strong methodologies, with experience in agile. Searching for new fulfilling projects that will help me develop technically and as a person. Able to develop performing apps. Specialized in Javascript and associated frameworks."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.

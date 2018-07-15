@@ -2,7 +2,7 @@
     "title":"Wiki Marvel",
     "link":"https://wiki-marvel.quentinandrieu.com/",
     "image":"/img/marvel.jpg",
-    "description":"<p>Wiki Marvel</p>",
+    "description":"<p>Application develop to search and learn about Marvel characters online. Give a simple and easy way to get the information you want.</p>",
     "tags":[
           "Javascript",
           "Angular 2",
@@ -15,6 +15,12 @@
     "featured":true
 }
 
-<p>Mensarum enim voragines et varias voluptatum inlecebras, ne longius progrediar, praetermitto illuc transiturus quod quidam per ampla spatia urbis subversasque silices sine periculi metu properantes equos velut publicos signatis quod dicitur calceis agitant, familiarium agmina tamquam praedatorios globos post terga trahentes ne Sannione quidem, ut ait comicus, domi relicto. quos imitatae matronae complures opertis capitibus et basternis per latera civitatis cuncta discurrunt.</p>
+<p>Application develop to search and learn about Marvel characters online. Give a simple and easy way to get the information you want.</p>
 
-<p>Circa hos dies Lollianus primae lanuginis adulescens, Lampadi filius ex praefecto, exploratius causam Maximino spectante, convictus codicem noxiarum artium nondum per aetatem firmato consilio descripsisse, exulque mittendus, ut sperabatur, patris inpulsu provocavit ad principem, et iussus ad eius comitatum duci, de fumo, ut aiunt, in flammam traditus Phalangio Baeticae consulari cecidit funesti carnificis manu.</p>
+<p>The main features are the possibility to search for characters, comics and creators.</p>
+
+<p>
+    The app is a web app develop in Angular and Typescript. I'm using the API provide by Marvel to get the necessary datas.</br>
+    Github: <a href="https://github.com/quentinandrieu/wiki-marvel">
+    https://github.com/quentinandrieu/wiki-marvel</a>
+</p>
