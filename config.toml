@@ -8,7 +8,6 @@ theme = "resume"
     lastName = "Andrieu"
     address = "11 rue de Brest 35500 Vitré"
     phone = "06 78 92 25 17"
-    contactNote = "Full Stack Javascript Developer" #used in QR code only
     profileImage = "img/quentinandrieu.jpg"
     email = "pro.andrieu.quentin@gmail.com"
     description = "Full Stack Javascript Developer"
